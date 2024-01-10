@@ -90,19 +90,6 @@ const technologies = [
 
 const experiences = [
   {
-    title: "IT Business Analyst - Intern",
-    company_name: "Nuvama Wealth Management (Edelweiss)",
-    icon: nuvama,
-    iconBg: "#03002f",
-    date: "Nov 2021 - Apr 2022",
-    points: [
-      "Performed thorough research and in-depth analysis to effectively drive the advancement of IT projects (specifically the Account Opening Project) and strategic initiatives, contributing to the development of business objectives and requirements.",
-      "Added new features to the webapp such as Geolocation Tagging and Video IPV.",
-      "Creating and managing project records that include requirement documents, business process flows, and test plans for improving the firm web app.",
-      "Gained experience with Agile development methodologies and project management tools (JIRA and Confluence)",
-    ],
-  },
-  {
     title: "AI Engineer - Intern",
     company_name: "HDFC ERGO General Insurance Company Limited",
     icon: hdfcergo,
@@ -115,6 +102,20 @@ const experiences = [
       "Optimized Aadhar masking process using ResNet, reducing time from 80 seconds to 30 seconds, streamlining the workflow."
     ],
   },
+  {
+    title: "IT Business Analyst - Intern",
+    company_name: "Nuvama Wealth Management (Edelweiss)",
+    icon: nuvama,
+    iconBg: "#03002f",
+    date: "Nov 2021 - Apr 2022",
+    points: [
+      "Performed thorough research and in-depth analysis to effectively drive the advancement of IT projects (specifically the Account Opening Project) and strategic initiatives, contributing to the development of business objectives and requirements.",
+      "Added new features to the webapp such as Geolocation Tagging and Video IPV.",
+      "Creating and managing project records that include requirement documents, business process flows, and test plans for improving the firm web app.",
+      "Gained experience with Agile development methodologies and project management tools (JIRA and Confluence)",
+    ],
+  },
+  
   // {
   //   title: "Web Developer",
   //   company_name: "Shopify",
