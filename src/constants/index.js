@@ -91,28 +91,27 @@ const technologies = [
 const experiences = [
   {
     title: "AI Engineer - Intern",
-    company_name: "HDFC ERGO General Insurance Company Limited",
+    company_name: "HDFC ERGO General Insurance Company",
     icon: hdfcergo,
     iconBg: "#e31d24",
     date: "Jun 2023 - Sep 2023",
     points: [
-      "Designed and implemented an in-house data extraction API with Tesseract OCR and Flask, saving 50,000 Indian rupees daily by eliminating the need for outsourcing national identification document processing.",
-      "Developed a deep learning CNN model with 96.52% accuracy, reducing the processing time for daily policy files from 2-3 days to 3 hours.",
-      "Integrated multiple models into a single API with 90.37% accuracy for identifying various national identification documents, eliminating manual data tagging and improving efficiency.",
-      "Optimized Aadhar masking process using ResNet, reducing time from 80 seconds to 30 seconds, streamlining the workflow."
+      "Built an in-house data extraction API using Tesseract OCR and Flask, saving significant operational costs and eliminating dependency on external services",
+      "Developed a CNN model achieving 96.52% accuracy, reducing policy file processing time from 2–3 days to 3 hours for 25,000 daily pdf input files",
+      "Integrated multiple document recognition models into a single API with 90.37% accuracy, automating diverse document identification and eliminating manual tagging",
+      "Optimized document masking via ResNet, cutting processing time by 63% (80s → 30s), streamlining workflows"
     ],
   },
   {
     title: "IT Business Analyst - Intern",
-    company_name: "Nuvama Wealth Management (Edelweiss)",
+    company_name: "Nuvama Wealth and Investment Limited (previously Edelweiss)",
     icon: nuvama,
     iconBg: "#03002f",
     date: "Nov 2021 - Apr 2022",
     points: [
-      "Performed thorough research and in-depth analysis to effectively drive the advancement of IT projects (specifically the Account Opening Project) and strategic initiatives, contributing to the development of business objectives and requirements.",
-      "Added new features to the webapp such as Geolocation Tagging and Video IPV.",
-      "Creating and managing project records that include requirement documents, business process flows, and test plans for improving the firm web app.",
-      "Gained experience with Agile development methodologies and project management tools (JIRA and Confluence)",
+      "Conducted user data analysis for the Account Opening project, driving a 10% improvement in efficiency by aligning business goals with user insights",
+      "Managed over 100 test cases weekly for each new web app update, streamlining the update process and enhancing bug-fix workflows",
+      "Coordinated with cross-functional teams using JIRA and Confluence, accelerating project timelines and ensuring smooth sprint transitions",
     ],
   },
   
